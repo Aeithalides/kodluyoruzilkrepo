@@ -9,6 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 '''
 https://github.com/Aeithalides/kodluyoruzilkrepo
+
 '''
 ## Usage
 
@@ -16,13 +17,15 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 '''
+
 cd kodluyoruzİlkrepo
 code .
+
 '''
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
-##Licence
+## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
